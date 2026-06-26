@@ -1,0 +1,8 @@
+git init
+git add hello.py
+git commit -m "First commit: Hello World"
+
+
+git remote add origin https://github.com/username/hello-world.git
+git branch -M main
+git push -u origin main
